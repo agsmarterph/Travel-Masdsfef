@@ -40,4 +40,4 @@ also in getDbUsername() and getDbPassword() methods of factory class.
 NOTE: If on launching index.html, you get "Website Under maintenance", it means one of more steps failed to execute.
       I didn't have time to create admin panel so if anyone is interested to contribute, they are more than welcome. Just ping me.
 
-For any help, mail me at abhimaxfield@gmail.com.
+
